@@ -1,0 +1,74 @@
+@charset "utf-8"; 
+/* @license
+ * MyFonts Webfont Build ID 1651208, 2011-12-06T15:06:35-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Berling Regular by URW++
+ * URL: http://www.myfonts.com/fonts/urw/berling/t-regular/
+ * 
+ * Webfont: Berling Bold Italic by URW++
+ * URL: http://www.myfonts.com/fonts/urw/berling/t-bold-italic/
+ * 
+ * Webfont: Berling Regular Italic by URW++
+ * URL: http://www.myfonts.com/fonts/urw/berling/t-regular-italic/
+ * 
+ * Webfont: Berling Bold by URW++
+ * URL: http://www.myfonts.com/fonts/urw/berling/t-bold/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=1651208
+ * Licensed pageviews: unlimited
+ * Webfonts copyright: Copyright 2010 URW++ Design &amp; Development Hamburg
+ * 
+ * © 2011 Bitstream Inc
+*/
+
+
+@font-face {
+    font-weight: 400;
+    font-family: 'Berling';
+    src: url('/sites/all/files/fonts/berling-regular-webfont.eot');
+    src: url('/sites/all/files/fonts/berling-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/sites/all/files/fonts/berling-regular-webfont.woff') format('woff'),
+    url('/sites/all/files/fonts/berling-regular-webfont.ttf') format('truetype');
+}
+@font-face {
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Berling';
+    src: url('/sites/all/files/fonts/berling-regita-webfont.eot');
+    src: url('/sites/all/files/fonts/berling-regita-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/sites/all/files/fonts/berling-regita-webfont.woff') format('woff'),
+    url('/sites/all/files/fonts/berling-regita-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-weight: 700;
+    font-family: 'Berling';
+    src: url('/sites/all/files/fonts/berling-bold-webfont.eot');
+    src: url('/sites/all/files/fonts/berling-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/sites/all/files/fonts/berling-bold-webfont.woff') format('woff'),
+    url('/sites/all/files/fonts/berling-bold-webfont.ttf') format('truetype');
+}
+@font-face {
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Berling';
+    src: url('/sites/all/files/fonts/berling-boldita-webfont.eot');
+    src: url('/sites/all/files/fonts/berling-boldita-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/sites/all/files/fonts/berling-boldita-webfont.woff') format('woff'),
+    url('/sites/all/files/fonts/berling-boldita-webfont.ttf') format('truetype');
+}
+@font-face {
+    font-weight: 400;
+    font-family: 'CustomTOR';
+    src: url('/sites/all/files/fonts/CustomTOR.eot');
+    src: url('/sites/all/files/fonts/CustomTOR.eot?#iefix') format('embedded-opentype'),
+         url('/sites/all/files/fonts/CustomTOR.woff') format('woff'),
+         url('/sites/all/files/fonts/CustomTOR.ttf') format('truetype');
+}

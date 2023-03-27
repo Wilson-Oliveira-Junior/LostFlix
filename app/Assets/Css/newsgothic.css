@@ -1,0 +1,68 @@
+@charset "utf-8"; 
+/* @license
+ * MyFonts Webfont Build ID 2175562, 2012-03-26T15:23:23-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: News Gothic Condensed by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/news-gothic/condensed/
+ * Licensed pageviews: unlimited
+ * 
+ * Webfont: News Gothic Italic Condensed by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/news-gothic/italic-condensed/
+ * Licensed pageviews: unspecified
+ * 
+ * Webfont: News Gothic Bold Condensed by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/news-gothic/bold-condensed/
+ * Licensed pageviews: unspecified
+ * 
+ * Webfont: News Gothic Bold Italic Condensed by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/news-gothic/bold-italic-condensed/
+ * Licensed pageviews: unspecified
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2175562
+ * Webfonts copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * 
+ * © 2012 Bitstream Inc
+*/
+
+@font-face {
+    font-weight: 400;
+    font-family: 'News Gothic';
+    src: url('/sites/all/files/fonts/NewsGothic.eot');
+    src: url('/sites/all/files/fonts/NewsGothic.eot?#iefix') format('embedded-opentype'),
+         url('/sites/all/files/fonts/NewsGothic.woff') format('woff'),
+         url('/sites/all/files/fonts/NewsGothic.ttf') format('truetype');
+}
+@font-face {
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'News Gothic';
+    src: url('/sites/all/files/fonts/NewsGothic-Italic.eot');
+    src: url('/sites/all/files/fonts/NewsGothic-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/sites/all/files/fonts/NewsGothic-Italic.woff') format('woff'),
+         url('/sites/all/files/fonts/NewsGothic-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-weight: 700;
+    font-family: 'News Gothic';
+    src: url('/sites/all/files/fonts/NewsGothic-Bold.eot');
+    src: url('/sites/all/files/fonts/NewsGothic-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/sites/all/files/fonts/NewsGothic-Bold.woff') format('woff'),
+         url('/sites/all/files/fonts/NewsGothic-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'News Gothic';
+    src: url('/sites/all/files/fonts/NewsGothic-BoldItalic.eot');
+    src: url('/sites/all/files/fonts/NewsGothic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('/sites/all/files/fonts/NewsGothic-BoldItalic.woff') format('woff'),
+         url('/sites/all/files/fonts/NewsGothic-BoldItalic.ttf') format('truetype');
+}
